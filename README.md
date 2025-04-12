@@ -1,4 +1,4 @@
-# **Setup Guide**
+# **Read here**
 - This Patch enables online functionality while playing supported games.  
 
 ## **Disclaimer**
