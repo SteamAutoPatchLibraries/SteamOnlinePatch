@@ -1,4 +1,4 @@
-# **Read here**
+# **SteamOnlinePatch**
 - This Patch enables online functionality while playing supported games.  
 
 ## **Disclaimer**
@@ -11,7 +11,8 @@ Ensure WinRAR installed: Download from [Official WinRAR](https://www.win-rar.com
 1. Download the `Patch` from the [release](https://github.com/SteamAutoPatchLibraries/SteamOnlinePatch/releases).
 2. Launch `Patch.exe`.
 3. `Browse` game folder directory.
-4. `Search` your game.
+4. `Search`
+ your game.
 5. Click `Patch Game` — automation will handle the rest.
 6. Enjoy the game!🎉
 
