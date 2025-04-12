@@ -6,7 +6,6 @@
 
 
 ## **Installation Instructions**
-Ensure WinRAR installed: Download from [Official WinRAR](https://www.win-rar.com/postdownload.html?&L=0)
 
 1. Download the `Patch` from the [release](https://github.com/SteamAutoPatchLibraries/SteamOnlinePatch/releases).
 2. Launch `Patch.exe`.
@@ -18,9 +17,6 @@ Ensure WinRAR installed: Download from [Official WinRAR](https://www.win-rar.com
 
 ## **Uninstallation Instructions**
 - Delete Patch.exe
-
-## Important
-- WinRAR must be installed on your system. The patch will not function without it.
 
 ## Additional Information
 - Known Issues: Online features may not work with certain games, as the patch is still under active testing.
