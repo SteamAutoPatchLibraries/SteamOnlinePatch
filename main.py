@@ -29,7 +29,6 @@ class DownloadWorker(QThread):
     def run(self):
         try:
             headers = {'User-Agent': 'Mozilla/5.0', 'Authorization': f'token {GITHUB_TOKEN}'}
-            self.progress.emit('⏳ Fetching folder structure...')
             self.download_folder(f'{API_URL}/{self.folder_path}', self.save_dir)
 
     def download_folder(self, folder_url, save_dir):
